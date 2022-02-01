@@ -1,7 +1,7 @@
 ### Olá, Me chamo Pablo! 👋
 Um software developer amante por tecnologia, buscando evoluir constantemente minhas habilidades em novas tecnologias, e desenvolver soluções que possam impactar positivamente a vida das pessoas.
 ## **Mais sobre mim:**
-<img align="right" alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="right" alt="Pablo-Gif" height="180" style="border-radius:50px;" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
   ```Javascript
    const WhoAmI = {

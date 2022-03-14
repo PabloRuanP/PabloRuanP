@@ -48,7 +48,7 @@ function Ambitions() {
 
 ##
 <p align="left">
-  <a target="_blank" href="#" alt="Linkedin">
+  <a target="_blank" href="https://www.linkedin.com/in/pablo-ruan-a3ba50232/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
    <a target="_blank" href="mailto:pablommoc@gmail.com" alt="Gmail">

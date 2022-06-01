@@ -9,7 +9,7 @@ Um software developer amante por tecnologia, buscando evoluir constantemente min
   current_edu: [
     "Udemy",
     "Rocketseat",
-    "Trybe"],
+    "Balta.io"],
   hobbies: [
    "Studying",
    "Watching Series and Films",

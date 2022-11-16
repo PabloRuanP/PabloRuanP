@@ -4,38 +4,39 @@ Um software developer amante por tecnologia, buscando evoluir constantemente min
 <img align="right" alt="Pablo-Gif" height="180" style="border-radius:50px;" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
   ```Javascript
-   const WhoAmI = {
-  user: "Pablo Ruan",
-  current_edu: [
-    "Udemy",
-    "Rocketseat",
-    "Balta.io"],
-  hobbies: [
-   "Studying",
-   "Watching Series and Films",
-   "Read books",
-   "Workout in leisure time"]
+  const WhoAmI = {
+    user: "Pablo Ruan",
+    current_edu: [
+      "Udemy",
+      "Rocketseat",
+      "Balta.io"],
+    hobbies: [
+     "Studying",
+     "Watching Series and Films",
+     "Read books",
+     "Workout in leisure time"]
 }
 	
  function getCurrentCity() {
 	return Montes Claros_Brazil
-  }
+ }
 	
 function Ambitions() {
 	travelAroundTheWorld()
 	recognizedExpert()
-	} 
+} 
   ```
 
   
 ## **Linguagens e Ferramentas:** 
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pablo-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pablo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pablo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pablo-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/alexandresaints/alexandresaints/main/Profile--GitHubAuxiliaryFiles/mysql-plain.svg">
-  <img align="center" alt="Pablo-Git" height="40" width="50" src="https://raw.githubusercontent.com/alexandresaints/alexandresaints/main/Profile--GitHubAuxiliaryFiles/git-plain.svg">
+  <img align="center" alt="Pablo-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Pablo-React-Native" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="Pablo-MySQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Pablo-Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
 
 ##

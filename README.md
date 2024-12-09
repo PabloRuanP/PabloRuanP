@@ -57,5 +57,3 @@ function Ambitions() {
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </p>
 <br>
-
-![Snake animation](https://github.com/PabloRuanP/PabloRuanP/blob/output/github-contribution-grid-snake.svg)

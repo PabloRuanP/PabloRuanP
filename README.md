@@ -2,32 +2,7 @@
 <!--
 Um software developer amante por tecnologia, buscando evoluir constantemente minhas habilidades em novas tecnologias, e desenvolver soluções que possam impactar positivamente a vida das pessoas.
 ## **Mais sobre mim:** -->
-<img align="right" alt="Pablo-Gif" height="180" style="border-radius:50px;" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
-<!--
-  ```Javascript
-  const WhoAmI = {
-    user: "Pablo Ruan",
-    current_edu: [
-      "Udemy",
-      "Rocketseat",
-      "Balta.io"],
-    hobbies: [
-     "Studying",
-     "Watching Series and Films",
-     "Read books",
-     "Workout in leisure time"]
-}
-	
- function getCurrentCity() {
-	return Montes Claros_Brazil
- }
-	
-function Ambitions() {
-	travelAroundTheWorld()
-	recognizedExpert()
-} 
-  ```
--->
+<img align="center" alt="Pablo-Gif" height="180" style="border-radius:50px;" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/><br>
 
 ## **Linguagens e Ferramentas:** 
   

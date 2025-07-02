@@ -4,11 +4,11 @@ Um software developer amante por tecnologia, buscando evoluir constantemente min
 ## **Mais sobre mim:** -->
 <div align="center">
   <a href="https://github.com/PabloRuanP" style="display:inline-block;">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PabloRuanP&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=PabloRuanP&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   </a>
-  <img height="150em" style="border-radius:10px; display:inline-block;" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+  <img height="130em" style="border-radius:10px; display:inline-block;" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
   <a href="https://github.com/PabloRuanP" style="display:inline-block;">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloRuanP&layout=compact&theme=github_dark&hide_langs_below=1"/>
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloRuanP&layout=compact&theme=github_dark&hide_langs_below=1"/>
   </a>
 </div>
 

@@ -20,7 +20,7 @@ Um software developer amante por tecnologia, buscando evoluir constantemente min
 
 <div align="left">
   <a href="https://github.com/PabloRuanP">
-  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=PabloRuanP&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=PabloRuanP&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloRuanP&layout=compact&theme=github_dark&hide_langs_below=1"/> 
 </div>
 
